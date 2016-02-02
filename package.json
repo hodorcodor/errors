@@ -1,0 +1,27 @@
+{
+  "name": "errors",
+  "version": "1.0.0",
+  "description": "Error Handling",
+  "main": "index.js",
+  "engines": {
+    "node": "5.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "private": false,
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "1.8.3",
+    "logger": "hodorcodor/logger"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3",
+    "should": "8.2.1"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/hodorcodor/errors.git"
+  }
+}
